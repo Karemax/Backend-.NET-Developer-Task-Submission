@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj": {}
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj": {}
   },
   "projects": {
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj",
+        "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj",
         "projectName": "Project.Application",
-        "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj",
+        "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj",
         "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-        "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\obj\\",
+        "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
-                "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj"
+              "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
+                "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
+        "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
         "projectName": "Project.Domain",
-        "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
+        "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
         "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-        "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\obj\\",
+        "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj": {
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj",
+        "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj",
         "projectName": "Project.UnitTests",
-        "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj",
+        "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj",
         "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-        "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\obj\\",
+        "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -166,8 +166,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
-                "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
+              "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
+                "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj": {}
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj": {}
   },
   "projects": {
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj": {
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj",
+        "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj",
         "projectName": "Project.API",
-        "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj",
+        "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj",
         "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-        "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\obj\\",
+        "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
-                "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
+              "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
+                "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
               },
-              "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj": {
-                "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj"
+              "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj": {
+                "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj",
+        "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj",
         "projectName": "Project.Application",
-        "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj",
+        "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj",
         "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-        "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\obj\\",
+        "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -115,8 +115,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
-                "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj"
+              "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
+                "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj"
               }
             }
           }
@@ -174,14 +174,14 @@
         }
       }
     },
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
+        "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
         "projectName": "Project.Domain",
-        "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
+        "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
         "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-        "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\obj\\",
+        "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -233,14 +233,14 @@
         }
       }
     },
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj": {
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj",
+        "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj",
         "projectName": "Project.Infrastructure",
-        "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj",
+        "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-        "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\obj\\",
+        "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -255,8 +255,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
-                "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
+              "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
+                "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
               }
             }
           }

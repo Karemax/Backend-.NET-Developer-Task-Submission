@@ -2762,11 +2762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj",
+      "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj",
       "projectName": "Project.Infrastructure",
-      "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj",
+      "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\Project.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-      "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\obj\\",
+      "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2781,8 +2781,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
-              "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
+            "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
+              "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rZYbKU6JSzc=",
+  "dgSpecHash": "zT5eg09QcRM=",
   "success": true,
-  "projectFilePath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj",
+  "projectFilePath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.API\\Project.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karemax\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Karemax\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -605,8 +605,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
-              "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj"
+            "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
+              "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj"
             }
           }
         }

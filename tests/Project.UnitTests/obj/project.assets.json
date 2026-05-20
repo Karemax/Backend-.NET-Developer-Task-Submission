@@ -1536,11 +1536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj",
+      "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj",
       "projectName": "Project.UnitTests",
-      "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj",
+      "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\Project.UnitTests.csproj",
       "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-      "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\obj\\",
+      "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\tests\\Project.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1555,8 +1555,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
-              "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
+            "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj": {
+              "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Application\\Project.Application.csproj"
             }
           }
         }

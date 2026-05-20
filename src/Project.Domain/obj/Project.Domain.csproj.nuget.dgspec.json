@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {}
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {}
   },
   "projects": {
-    "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
+    "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
+        "projectUniqueName": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
         "projectName": "Project.Domain",
-        "projectPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
+        "projectPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\Project.Domain.csproj",
         "packagesPath": "C:\\Users\\Karemax\\.nuget\\packages\\",
-        "outputPath": "D:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\obj\\",
+        "outputPath": "d:\\DIV\\VS Projects\\Backend-.NET-Developer-Task-Submission\\src\\Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karemax\\AppData\\Roaming\\NuGet\\NuGet.Config"
