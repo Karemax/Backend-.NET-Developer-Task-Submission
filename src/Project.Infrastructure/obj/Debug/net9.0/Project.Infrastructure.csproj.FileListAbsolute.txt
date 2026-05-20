@@ -1,0 +1,17 @@
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\bin\Debug\net9.0\Project.Infrastructure.deps.json
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\bin\Debug\net9.0\Project.Infrastructure.dll
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\bin\Debug\net9.0\Project.Infrastructure.pdb
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\bin\Debug\net9.0\Project.Application.dll
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\bin\Debug\net9.0\Project.Domain.dll
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\bin\Debug\net9.0\Project.Application.pdb
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\bin\Debug\net9.0\Project.Domain.pdb
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\Project.Infrastructure.csproj.AssemblyReference.cache
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\Project.Infrastructure.AssemblyInfoInputs.cache
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\Project.Infrastructure.AssemblyInfo.cs
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\Project.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\Project..A2F26F6C.Up2Date
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\Project.Infrastructure.dll
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\refint\Project.Infrastructure.dll
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\Project.Infrastructure.pdb
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Infrastructure\obj\Debug\net9.0\ref\Project.Infrastructure.dll

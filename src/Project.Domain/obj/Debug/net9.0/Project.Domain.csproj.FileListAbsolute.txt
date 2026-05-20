@@ -1,0 +1,11 @@
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\bin\Debug\net9.0\Project.Domain.deps.json
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\bin\Debug\net9.0\Project.Domain.dll
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\bin\Debug\net9.0\Project.Domain.pdb
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\obj\Debug\net9.0\Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\obj\Debug\net9.0\Project.Domain.AssemblyInfoInputs.cache
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\obj\Debug\net9.0\Project.Domain.AssemblyInfo.cs
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\obj\Debug\net9.0\Project.Domain.csproj.CoreCompileInputs.cache
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\obj\Debug\net9.0\Project.Domain.dll
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\obj\Debug\net9.0\refint\Project.Domain.dll
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\obj\Debug\net9.0\Project.Domain.pdb
+D:\DIV\VS Projects\Backend-.NET-Developer-Task-Submission\src\Project.Domain\obj\Debug\net9.0\ref\Project.Domain.dll
